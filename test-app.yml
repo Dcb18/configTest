@@ -1,2 +1,3 @@
 test:
-  url:http://test1-app-remote:8080
+  url:
+  http://test1-app-remote:8080
